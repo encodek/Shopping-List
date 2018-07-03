@@ -1,4 +1,4 @@
-# encodek.DOM-events-exercize1
+# Shopping List
 
 The shopping list page makes the following:
 
